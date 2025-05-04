@@ -1,6 +1,6 @@
 # Wish Background Padding Minimal
 
-Project that minimally reproduces potential bug in [Bubble Tea]() [Wish]() or [Lipgloss]() (not sure which one) - background color is not applied to padding when serving the application from Docker (seems to work as expected during dev)
+Project that minimally reproduces potential bug in [Bubble Tea](https://github.com/charmbracelet/bubbletea) [Wish](https://github.com/charmbracelet/wish) or [Lipgloss](https://github.com/charmbracelet/lipgloss) (not sure which one) - background color is not applied to padding when serving the application from Docker (seems to work as expected during dev)
 
 ## Step to reproduce bug
 
